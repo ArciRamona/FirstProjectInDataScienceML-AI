@@ -1,0 +1,13 @@
+prefix=/Users/gladysando/Documents/WorkDocuments/DataScienceDataAnalysisMLPythonTensorflowPandas/firstDataScienceProject/env
+exec_prefix=/Users/gladysando/Documents/WorkDocuments/DataScienceDataAnalysisMLPythonTensorflowPandas/firstDataScienceProject/env
+libdir=/Users/gladysando/Documents/WorkDocuments/DataScienceDataAnalysisMLPythonTensorflowPandas/firstDataScienceProject/env/lib
+sharedlibdir=/Users/gladysando/Documents/WorkDocuments/DataScienceDataAnalysisMLPythonTensorflowPandas/firstDataScienceProject/env/lib
+includedir=/Users/gladysando/Documents/WorkDocuments/DataScienceDataAnalysisMLPythonTensorflowPandas/firstDataScienceProject/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

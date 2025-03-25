@@ -1,0 +1,37 @@
+{
+  "build": "py310h3b2db8e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [
+    "setuptools <74"
+  ],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "libcxx >=14.0.6",
+    "blas * openblas",
+    "libopenblas >=0.3.21,<1.0a0",
+    "numpy-base 2.2.2 py310ha9811e2_0"
+  ],
+  "extracted_package_dir": "/Users/gladysando/miniconda3/pkgs/numpy-2.2.2-py310h3b2db8e_0",
+  "files": [],
+  "fn": "numpy-2.2.2-py310h3b2db8e_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/Users/gladysando/miniconda3/pkgs/numpy-2.2.2-py310h3b2db8e_0",
+    "type": 1
+  },
+  "md5": "0c878ec96d8ac834806f49e3e0f836bc",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/gladysando/miniconda3/pkgs/numpy-2.2.2-py310h3b2db8e_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8a6592e113507117e42a3644473a14d0d341704550ff7213d84a1597d04dbb9b",
+  "size": 12527,
+  "subdir": "osx-arm64",
+  "timestamp": 1738079478000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-2.2.2-py310h3b2db8e_0.conda",
+  "version": "2.2.2"
+}

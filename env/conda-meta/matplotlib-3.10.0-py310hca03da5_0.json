@@ -1,0 +1,33 @@
+{
+  "build": "py310hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "tornado >=5",
+    "matplotlib-base >=3.10.0,<3.10.1.0a0"
+  ],
+  "extracted_package_dir": "/Users/gladysando/miniconda3/pkgs/matplotlib-3.10.0-py310hca03da5_0",
+  "files": [],
+  "fn": "matplotlib-3.10.0-py310hca03da5_0.conda",
+  "license": "LicenseRef-PSF-based",
+  "link": {
+    "source": "/Users/gladysando/miniconda3/pkgs/matplotlib-3.10.0-py310hca03da5_0",
+    "type": 1
+  },
+  "md5": "2a3cc0746557a813f15d9106b7c17d44",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/gladysando/miniconda3/pkgs/matplotlib-3.10.0-py310hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "90b444c7f928caf37013eb2cd6c2cde075fcf1c648b39dec89702be015620a06",
+  "size": 8249,
+  "subdir": "osx-arm64",
+  "timestamp": 1736278515000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/matplotlib-3.10.0-py310hca03da5_0.conda",
+  "version": "3.10.0"
+}
